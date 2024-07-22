@@ -22,7 +22,7 @@ This is a comprehensive E-commerce website built using PHP Laravel, HTML, CSS, a
 ## Installation
 
 ### Prerequisites
-- PHP >= 7.3
+- PHP 8.2.12 
 - Composer
 - MySQL
 - Node.js (for Laravel Mix)
